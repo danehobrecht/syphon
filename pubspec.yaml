@@ -129,6 +129,7 @@ dev_dependencies:
   json_serializable: ^3.5.0
   flutter_launcher_icons: "^0.7.5"
   build_runner: ^1.10.1
+  flutter_webrtc: #Version?
 
 # dependency_overrides:
 # intl: ^0.17.0-nullsafety.2 # <-- override for desktop builds on dev channel
